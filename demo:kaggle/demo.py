@@ -98,5 +98,5 @@ def ana():
                #cv2.imshow('ori',img)
                analysis(path)
 if __name__ == '__main__':
-   #ana()
+   #ana() #批量分析
    loop()
